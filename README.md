@@ -19,7 +19,7 @@
   <br/>
   <!--언어 및 툴 -->
    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Amazon EC2-#FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
+   <img src="https://img.shields.io/badge/AmazonEC2-#FF9900?style=flat&logo=AmazonEC2&logoColor=white"/>
 <br/><br/>
   
  <!--공부중 -->
