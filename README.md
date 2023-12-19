@@ -25,12 +25,6 @@
  <!--공부중 -->
  
   <!--## Studying :pencil2: -->
- <!--<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>-->
-  <!--백-->
-  <br/>
- <!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>-->
- <!--언어 및 툴 --> <br/>
 
  <br/>
  <br/>
