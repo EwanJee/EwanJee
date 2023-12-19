@@ -14,6 +14,22 @@
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EwanJee&layout=compact)-->
 
+
+## About Me :fireworks:
+
+<span>
+  <a href="https://www.ewanjee.tistory.com">
+    <img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Tistory&logoColor=white"/>
+  </a>
+</span>
+<span>
+  <a href="https://www.ewanjee.com">
+    <img src="https://img.shields.io/badge/Private Website-003648?style=flat&logo=Codementor&logoColor=white"/>
+  </a>
+</span>
+
+<br/><br/>
+
 <!--기술스택-->
   ## Skill :four_leaf_clover:
   
@@ -54,13 +70,6 @@
 
  <br/>
  <br/>
-
-## About Me :fireworks:
-<span>
-  <a href="ewanjee.tistory.com">
-    <img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Tistory&logoColor=white"/>
-  </a>
-</span>
   
 
 
