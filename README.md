@@ -17,14 +17,14 @@
 
 <br/>
 <span>
-  <a href="https://ewanjee.tistory.com/">
+  <a href="https://ewanjee.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Tistory&logoColor=white"/>
   </a>
 </span>
 <br/>
 <br/>
 <span>
-  <a href="https://www.ewanjee.com">
+  <a href="https://www.ewanjee.com" target="_blank">
     <img src="https://img.shields.io/badge/Private Website-003648?style=flat&logo=Codementor&logoColor=white"/>
   </a>
 </span>
