@@ -9,11 +9,11 @@
 
 
 ## Introduction :raised_hands:
-안녕하세요, 서버/백엔드 개발자로 커리어를 쌓고 싶은 지예환입니다.
+<p>안녕하세요, 서버/백엔드 개발자로 커리어를 쌓고 싶은 지예환입니다.</p>
 <br><br>
 
 
-## About Me :ℹ️:
+## About Me ℹ️
 <br/>
 <span>
   <a href="https://ewanjee.tistory.com/">
