@@ -11,7 +11,7 @@
 ## Introduction :raised_hands:
 안녕하세요, 서버/백엔드 개발자로 커리어를 쌓고 싶은 지예환입니다.
 <br/><br/>
-
+<br/>
  ## About Me ℹ️:
 
 <span>
@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Tistory&logoColor=white"/>
   </a>
 </span>
+<br/>
 <br/>
 <span>
   <a href="https://www.ewanjee.com">
