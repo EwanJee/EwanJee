@@ -12,10 +12,7 @@
 안녕하세요, 서버/백엔드 개발자로 커리어를 쌓고 싶은 지예환입니다.
 <br/><br/>
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EwanJee&layout=compact)-->
-
-
- ## About Me :fireworks:
+ ## About Me ℹ️:
 
 <span>
   <a href="https://ewanjee.tistory.com/">
