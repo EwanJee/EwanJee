@@ -56,6 +56,11 @@
  <br/>
 
 ## About Me :fireworks:
-<a href="ewanjee.tistory.com" name="티스토리 블로그">
+<span>
+  <a href="ewanjee.tistory.com">
+    <img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Tistory&logoColor=white"/>
+  </a>
+</span>
+  
 
 
