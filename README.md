@@ -18,10 +18,11 @@
 ## About Me :fireworks:
 
 <span>
-  <a href="https://www.ewanjee.tistory.com">
+  <a href="https://ewanjee.tistory.com/">
     <img src="https://img.shields.io/badge/Blog-000000?style=flat&logo=Tistory&logoColor=white"/>
   </a>
 </span>
+<br/>
 <span>
   <a href="https://www.ewanjee.com">
     <img src="https://img.shields.io/badge/Private Website-003648?style=flat&logo=Codementor&logoColor=white"/>
