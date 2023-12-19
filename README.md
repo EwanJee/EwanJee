@@ -55,7 +55,7 @@
  <br/>
  <br/>
 
-## About Me 🎆:
-<a href="ewanjee.tistory.com" value="티스토리 블로그">
+## About Me :fireworks:
+<a href="ewanjee.tistory.com" name="티스토리 블로그">
 
 
