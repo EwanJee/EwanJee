@@ -2,6 +2,9 @@
 
 <div align=center>
 
+<!--https://simpleicons.org-->
+
+
 ## Introduction :raised_hands:
 안녕하세요, 서버/백엔드 개발자로 커리어를 쌓고 싶은 지예환입니다.
 <br/><br/>
@@ -29,6 +32,12 @@
   ### Cloud
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
+   <br/>
+
+   ### Others
+   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=Neovim&logoColor=white"/>
 <br/><br/>
   
  <!--공부중 -->
@@ -36,6 +45,9 @@
   ## Studying :pencil2:
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
 
  <br/>
  <br/>
